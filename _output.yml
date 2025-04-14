@@ -3,7 +3,7 @@ bookdown::bs4_book:
   theme:
     primary: "#52006A" # Color of Chapters and headings.
   repo:
-    base: https://github.com/nlreiser/Mes-center-dm/
+    base: https://github.com/NUMesCtrData/MesCenter-DM-SOPs/
     branch: main
   config:
     search:

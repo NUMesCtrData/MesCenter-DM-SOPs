@@ -1,8 +1,8 @@
 book_filename: "bookdownproj"
 output_dir: docs
 delete_merged_file: true
-edit: https://github.com/nlreiser/Mes-center-dm/edit/main/%s 
-view: https://github.com/nlreiser/Mes-center-dm/blob/main/%s 
+edit: https://github.com/NUMesCtrData/MesCenter-DM-SOPs/edit/main/%s 
+view: https://github.com/NUMesCtrData/MesCenter-DM-SOPs/blob/main/%s 
 language:
   ui:
     chapter_name: "Chapter "
