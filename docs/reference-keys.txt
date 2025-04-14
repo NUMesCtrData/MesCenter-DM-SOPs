@@ -59,4 +59,4 @@ adding-a-chapter-to-this-site.
 adding-the-rmarkdown-file-locally
 render-the-project-locally
 commit-the-changes
-for-additional-information-access-the-readme.md-file-in-the-project-folder.
+for-additional-information-access-the-readme.md-file-in-the-project-folder
