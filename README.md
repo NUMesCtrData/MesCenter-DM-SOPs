@@ -1,6 +1,6 @@
 
 
-### Mesulam Center Data Management Practices
+### Mesulam Institute Data Management Practices
 
 # 📘 SOP GitHub Pages Site
 
